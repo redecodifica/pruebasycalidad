@@ -1,0 +1,132 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<ProyectoFinal.Models.Usuario>;
+@using System.Security.Claims;
+
+<body class="theme-teal">
+    <aside id="leftsidebar" class="sidebar">
+        <!-- User Info -->
+        <div class="user-info">
+            <div class="image">
+                <img src="~/img/user.png" width="60" height="60" alt="User">
+            </div>
+            <div class="info-container">
+                <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Sistema General<br>
+                    @User.Claims.Where(c => c.Type == ClaimTypes.Name).Select(c => c.Value).SingleOrDefault()
+                </div>
+                <div class="email"></div>
+                <div class="btn-group user-helper-dropdown">
+                    <i class="material-icons" data-toggle="dropdown" aria-haspopup="true"
+                       aria-expanded="true">keyboard_arrow_down</i>
+                    <ul class="dropdown-menu pull-right">
+                        <li>
+                            <a asp-area="" asp-controller="Home" asp-action="Salir" class="waves-effect waves-block">
+                                <i class="material-icons">input</i>Desconectar
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- #User Info -->
+        <!-- Menu -->
+        <div class="menu">
+            <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 513px;">
+                <ul class="list" style="overflow: hidden; width: auto; height: 513px;">
+                    <li class="header">NAVEGACIÓN PRINCIPAL</li>
+                    <li class="active">
+                        <a href="@Url.Action("DashboardUsuario", "Usuario")" class="toggled waves-effect waves-block">
+                            <i class="material-icons">dashboard</i>
+                            <span>Dashboard</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Lista", "Paciente")" class=" waves-effect waves-block">
+                            <i class="material-icons">contacts</i>
+                            <span>Gestión de Pacientes</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="@Url.Action("ListaAnalisis", "Analisis")" class=" waves-effect waves-block">
+                            <i class="material-icons">category</i>
+                            <span>Gestión de Análisis</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#" class=" waves-effect waves-block">
+                            <i class="material-icons">receipt_long</i>
+                            <span>Gestión de Resultados</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#" class=" waves-effect waves-block">
+                            <i class="material-icons">receipt</i>
+                            <span>Gestión de Comprobante</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("ListaUsuario", "Usuario")" class=" waves-effect waves-block">
+                            <i class="material-icons">supervised_user_circle</i>
+                            <span>Gestión de Usuarios</span>
+                        </a>
+                    </li>
+                </ul>
+                <div class="slimScrollBar"
+                     style="background: rgba(0, 0, 0, 0.5); width: 4px; position: absolute; top: 0px; opacity: 0.4; display: none; border-radius: 0px; z-index: 99; right: 1px; height: 513px;">
+                </div>
+                <div class="slimScrollRail"
+                     style="width: 4px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 0px; background: rgb(51, 51, 51); opacity: 0.2; z-index: 90; right: 1px;">
+                </div>
+            </div>
+        </div>
+
+    </aside>
+    <section class="content">
+        <div id="inventory" class="container-fluid">
+            <h2>Lista de Usuarios</h2>
+            <a asp-controller="Acceso" asp-action="Registrarse" class="btn btn-success mb-3">Nuevo</a>
+            <div class="tabla_pad">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Nombre Usuario</th>
+                            <th>email</th>
+                            <th>contraseña</th>
+                            <th>Editar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id_usuario</td>
+                                <td>@item.Nombre_usuario</td>
+                                <td>@item.email</td>
+                                <td>
+                                    @{
+                                        string asteriscos = new string('*', item.contraseña.Length);
+                                    }
+                                    @asteriscos
+                                </td>
+                                <td>
+                                    <a asp-controller="Paciente"
+                                       asp-action="Editar"
+                                       asp-route-id="@item.Id_usuario"
+                                       class="material-icons">edit</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+</body>

@@ -1,0 +1,827 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA4D1AA-0E89-4D83-842D-E91A11AAAA56}|Login\\Login.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\login\\appdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA4D1AA-0E89-4D83-842D-E91A11AAAA56}|Login\\Login.csproj|solutionrelative:login\\appdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA4D1AA-0E89-4D83-842D-E91A11AAAA56}|Login\\Login.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\login\\accesocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA4D1AA-0E89-4D83-842D-E91A11AAAA56}|Login\\Login.csproj|solutionrelative:login\\accesocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA4D1AA-0E89-4D83-842D-E91A11AAAA56}|Login\\Login.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AA4D1AA-0E89-4D83-842D-E91A11AAAA56}|Login\\Login.csproj|solutionrelative:login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\controllers\\analisiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\analisiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\models\\analisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\analisis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20241102211057_mgcaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoFinal\\Migrations\\20241102211057_mgcaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA4D1AA-0E89-4D83-842D-E91A11AAAA56}|Login\\Login.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\login\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA4D1AA-0E89-4D83-842D-E91A11AAAA56}|Login\\Login.csproj|solutionrelative:login\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\viewmodels\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\viewmodels\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\paciente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\paciente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\paciente\\cambiarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\paciente\\cambiarclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\wwwroot\\lib\\jquery\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\usuario\\listausuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\usuario\\listausuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\usuario\\dashboardusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\usuario\\dashboardusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\analisis\\nuevoanalisis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\analisis\\nuevoanalisis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\paciente\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\paciente\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\paciente\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\paciente\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\analisis\\editaranalisis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\analisis\\editaranalisis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\analisis\\listaanalisis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\analisis\\listaanalisis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\paciente\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\paciente\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\views\\acceso\\loginpaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\views\\acceso\\loginpaciente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\migrations\\20240513052437_segundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\migrations\\20240513052437_segundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\migrations\\20240517043101_cuartooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\migrations\\20240517043101_cuartooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\migrations\\20240517034702_cuartoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\migrations\\20240517034702_cuartoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\migrations\\20240517033121_cuarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\migrations\\20240517033121_cuarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\migrations\\20240518031559_sdsadsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\migrations\\20240518031559_sdsadsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\migrations\\20240519124132_ewqewqfffd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\migrations\\20240519124132_ewqewqfffd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\maste\\desktop\\proyectofinal - copia\\proyectofinal\\migrations\\20240519144908_cincooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E00BD83-8D29-4E0C-A56A-15A245FDB9CA}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\migrations\\20240519144908_cincooo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContextTests.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\Login\\AppDBContextTests.cs",
+              "RelativeDocumentMoniker": "Login\\AppDBContextTests.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\Login\\AppDBContextTests.cs",
+              "RelativeToolTip": "Login\\AppDBContextTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:25:31.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:25:47.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\PacienteController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:46:07.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnalisisController.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\AnalisisController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\AnalisisController.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\AnalisisController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\AnalisisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:46:11.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\Paciente.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:28:31.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\LoginVM.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:01:06.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:25:37.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Analisis.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\Analisis.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\Analisis.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\Analisis.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\Analisis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:40:16.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "ProyectoFinal\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:58:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccesoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\Login\\AccesoControllerTests.cs",
+              "RelativeDocumentMoniker": "Login\\AccesoControllerTests.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\Login\\AccesoControllerTests.cs",
+              "RelativeToolTip": "Login\\AccesoControllerTests.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:30:46.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:01:17.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:53:09.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\Login\\Login.csproj",
+              "RelativeDocumentMoniker": "Login\\Login.csproj",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\Login\\Login.csproj",
+              "RelativeToolTip": "Login\\Login.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T20:30:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:15:06.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuarioVM.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\ViewModels\\UsuarioVM.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\ViewModels\\UsuarioVM.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\ViewModels\\UsuarioVM.cs",
+              "RelativeToolTip": "ProyectoFinal\\ViewModels\\UsuarioVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:02:53.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "ProyectoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "ProyectoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAADAbAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-25T00:26:23.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+              "RelativeDocumentMoniker": "ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+              "RelativeToolTip": "ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T00:27:44.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "jquery.validate.unobtrusive.min.js",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+              "RelativeDocumentMoniker": "ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+              "RelativeToolTip": "ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-25T00:27:31.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\Login\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Login\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\Login\\UnitTest1.cs",
+              "RelativeToolTip": "Login\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:24:41.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241102211057_mgcaro.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20241102211057_mgcaro.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20241102211057_mgcaro.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20241102211057_mgcaro.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20241102211057_mgcaro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:10:57.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\appsettings.json",
+              "RelativeToolTip": "ProyectoFinal\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T22:03:35.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Program.cs",
+              "RelativeToolTip": "ProyectoFinal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:16:25.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T00:21:22.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T01:50:06.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T00:21:20.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LICENSE.txt",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "RelativeDocumentMoniker": "ProyectoFinal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "RelativeToolTip": "ProyectoFinal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T00:26:19.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T00:21:12.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NuevoAnalisis.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Analisis\\NuevoAnalisis.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Analisis\\NuevoAnalisis.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Analisis\\NuevoAnalisis.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Analisis\\NuevoAnalisis.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAIBJwHEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T03:24:24.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T03:32:33.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DashboardUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Usuario\\DashboardUsuario.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Usuario\\DashboardUsuario.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Usuario\\DashboardUsuario.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Usuario\\DashboardUsuario.cshtml",
+              "ViewState": "AQIAAGoAAAAAAAAAAIBJwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T03:01:48.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ListaUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Usuario\\ListaUsuario.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Usuario\\ListaUsuario.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Usuario\\ListaUsuario.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Usuario\\ListaUsuario.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAIBJwGYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T02:38:58.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Nuevo.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\Nuevo.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Paciente\\Nuevo.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\Nuevo.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Paciente\\Nuevo.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAIBJwH8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T22:51:35.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\Lista.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Paciente\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\Lista.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Paciente\\Lista.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAIBJwIgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T22:51:11.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240519144908_cincooo.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240519144908_cincooo.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20240519144908_cincooo.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240519144908_cincooo.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20240519144908_cincooo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:49:08.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditarAnalisis.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Analisis\\EditarAnalisis.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Analisis\\EditarAnalisis.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Analisis\\EditarAnalisis.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Analisis\\EditarAnalisis.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAADwv2UAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T03:38:52.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Paciente\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\Editar.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Paciente\\Editar.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAG8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T22:51:54.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ListaAnalisis.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Analisis\\ListaAnalisis.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Analisis\\ListaAnalisis.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Analisis\\ListaAnalisis.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Analisis\\ListaAnalisis.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAIBJwCAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T02:49:36.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240519124132_ewqewqfffd.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240519124132_ewqewqfffd.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20240519124132_ewqewqfffd.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240519124132_ewqewqfffd.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20240519124132_ewqewqfffd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:41:32.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240518031559_sdsadsa.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240518031559_sdsadsa.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20240518031559_sdsadsa.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240518031559_sdsadsa.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20240518031559_sdsadsa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:15:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Paciente\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\Dashboard.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Paciente\\Dashboard.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T06:07:49.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240517043101_cuartooo.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240517043101_cuartooo.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20240517043101_cuartooo.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240517043101_cuartooo.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20240517043101_cuartooo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:31:01.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240517034702_cuartoo.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240517034702_cuartoo.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20240517034702_cuartoo.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240517034702_cuartoo.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20240517034702_cuartoo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:47:02.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240517033121_cuarto.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240517033121_cuarto.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20240517033121_cuarto.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240517033121_cuarto.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20240517033121_cuarto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:31:21.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CambiarClave.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\CambiarClave.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Paciente\\CambiarClave.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Paciente\\CambiarClave.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Paciente\\CambiarClave.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T02:19:59.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Acceso\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Acceso\\Registrarse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T22:09:22.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T03:12:53.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginPaciente.cshtml",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Acceso\\LoginPaciente.cshtml",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Views\\Acceso\\LoginPaciente.cshtml",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Views\\Acceso\\LoginPaciente.cshtml",
+              "RelativeToolTip": "ProyectoFinal\\Views\\Acceso\\LoginPaciente.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:17:31.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240513052437_segundo.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240513052437_segundo.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20240513052437_segundo.cs",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\Migrations\\20240513052437_segundo.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20240513052437_segundo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:24:37.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ProyectoFinal\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ProyectoFinal\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAD8lAAAAAAAAAAAewFUlAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-13T02:01:35.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

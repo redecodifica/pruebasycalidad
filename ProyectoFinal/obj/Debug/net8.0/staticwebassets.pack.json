@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProyectoFinal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProyectoFinal.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\bootstrap-material-datetimepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-material-datetimepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\morris.css",
+      "PackagePath": "staticwebassets\\css\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\theme-teal.css",
+      "PackagePath": "staticwebassets\\css\\theme-teal.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\css\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\vue-multiselect.min.css",
+      "PackagePath": "staticwebassets\\css\\vue-multiselect.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\waitMe.css",
+      "PackagePath": "staticwebassets\\css\\waitMe.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\css\\waves.css",
+      "PackagePath": "staticwebassets\\css\\waves.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\img\\hero-background-12-4.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-background-12-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\analytics.js",
+      "PackagePath": "staticwebassets\\js\\analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\basic-form-elements.js",
+      "PackagePath": "staticwebassets\\js\\basic-form-elements.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\bootstrap-material-datetimepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-material-datetimepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\customer.js",
+      "PackagePath": "staticwebassets\\js\\customer.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\jquery.slimscroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slimscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\jquery.sparkline.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\moment.js",
+      "PackagePath": "staticwebassets\\js\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\morris.js",
+      "PackagePath": "staticwebassets\\js\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\raphael.min.js",
+      "PackagePath": "staticwebassets\\js\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\stock.js",
+      "PackagePath": "staticwebassets\\js\\stock.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\js\\waves.js",
+      "PackagePath": "staticwebassets\\js\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maste\\Desktop\\ProyectoFinal - copia\\ProyectoFinal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProyectoFinal.props",
+      "PackagePath": "build\\ProyectoFinal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoFinal.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoFinal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProyectoFinal.props",
+      "PackagePath": "buildTransitive\\ProyectoFinal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

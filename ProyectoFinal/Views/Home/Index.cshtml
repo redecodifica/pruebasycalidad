@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html>
+<head>
+    <title>Home</title>
+    <!-- Enlace al archivo CSS de Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="login-page ls-closed">
+    <div class="login-box">
+        <div class="logo">
+            <a href="javascript:void(0);"><img class="img-fluid" src="~/img/logo.png" alt="inventory logo"></a>
+        </div>
+
+
+    </div>
+    <div>
+        <!-- Botón 1 -->
+        <center><a asp-controller="Acceso" asp-action="Login" class="btn btn-primary mb-3">Iniciar como Trabajador</a>
+
+        <!-- Botón 2 -->
+        <a asp-controller="Acceso" asp-action="LoginPaciente" class="btn btn-primary mb-3">Iniciar como Paciente</a></center>
+    </div>
+
+</body>
+</html>

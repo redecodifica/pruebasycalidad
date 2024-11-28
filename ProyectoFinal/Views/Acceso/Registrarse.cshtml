@@ -1,0 +1,58 @@
+﻿@model ProyectoFinal.ViewModels.UsuarioVM;
+
+<html>
+<head>
+    <title>Registrarse</title>
+</head>
+<body class="login-page ls-closed">
+    <div class="login-box">
+        <div class="logo">
+            <a href="javascript:void(0);"><img class="img-fluid" src="~/img/logo.png" alt="inventory logo"> </a>
+        </div>
+        <div class="card">
+            <div class="body">
+                <div class="msg">Regístrate</div>
+                    <form asp-controller="Acceso" asp-action="Registrarse" method="post">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="material-icons">person</i></span>
+                        <div class="form-line">
+                        <input class="form-control mb-3" type="text" placeholder="Nombre Completo" required asp-for="Nombre_usuario" />
+                        </div>
+                    </div>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="material-icons">mail</i></span>
+                        <div class="form-line">
+                        <input class="form-control mb-3" type="text" placeholder="Correo" required asp-for="email" />
+                        </div>
+                    </div>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="material-icons">lock</i></span>
+                        <div class="form-line">
+                        <input class="form-control mb-3" type="password" placeholder="Clave" required asp-for="contraseña" />
+                        </div>
+                    </div>
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="material-icons">lock</i></span>
+                        <div class="form-line">
+                        <input class="form-control mb-3" type="password" placeholder="Confirmar Clave" required asp-for="ConfirmarClave" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-4">
+                            <button class="btn btn-primary" type="submit">Registrate</button>
+                        </div>
+                            <a asp-controller="Usuario" asp-action="ListaUsuario" class="btn btn-warning">Volver</a>
+                        @if (ViewData["Mensaje"] != null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @ViewData["Mensaje"]
+                            </div>
+                        }
+                    </div>
+                    </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
